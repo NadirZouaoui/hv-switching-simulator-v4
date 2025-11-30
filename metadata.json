@@ -1,0 +1,5 @@
+{
+  "name": "HV Switching Simulator",
+  "description": "Interactive High Voltage Isolation & Access Training simulator.",
+  "requestFramePermissions": []
+}
